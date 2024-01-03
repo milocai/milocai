@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A Information Systems Engineer from Argentina</h3>
+<h3 align="center">An Information Systems Engineer from Argentina</h3>
 
 - 🔭 I've been working on **my thesis on Sanatorio 9 de Julio**
 
