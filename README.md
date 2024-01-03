@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A technology enthusiast from Argentina</h3>
+<h3 align="center">A Information Systems Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on **my thesis on S9J**
+- 🔭 I've been working on **my thesis on Sanatorio 9 de Julio**
 
 - 🌱 I’m currently learning **front-end development**
 
